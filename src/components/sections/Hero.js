@@ -4,7 +4,7 @@ import { SectionProps } from '../../utils/SectionProps';
 //import ButtonGroup from '../elements/ButtonGroup';
 //import Button from '../elements/Button';
 import Image from '../elements/Image';
-import Modal from '../elements/Modal';
+//import Modal from '../elements/Modal';
 
 const propTypes = {
   ...SectionProps.types
@@ -80,6 +80,14 @@ const Hero = ({
             </div>
           </div>
           <div className="hero-figure reveal-from-bottom illustration-element-01" data-reveal-value="20px" data-reveal-delay="800">
+              <Image
+                className="has-shadow"
+                src={require('./../../assets/images/video-placeholder.jpg')}
+                alt="Hero"
+                width={896}
+                height={504} />
+          </div>
+          {/*<div className="hero-figure reveal-from-bottom illustration-element-01" data-reveal-value="20px" data-reveal-delay="800">
             <a
               data-video="https://player.vimeo.com/video/174002812"
               href="#0"
@@ -99,7 +107,7 @@ const Hero = ({
             show={videoModalActive}
             handleClose={closeModal}
             video="https://player.vimeo.com/video/174002812"
-            videoTag="iframe" />
+            videoTag="iframe" />*/}
         </div>
       </div>
     </section>

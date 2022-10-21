@@ -45,7 +45,7 @@ const Footer = ({
           </div>
           <div className="footer-bottom space-between text-xxs invert-order-desktop">
             <FooterNav />
-            <div className="footer-copyright"><a href="https://avla.com">AVLA</a> - GIR</div>
+            <div className="footer-copyright"><a href="https://avla.com" style={{color:'#33363A'}}>AVLA</a> - GIR</div>
           </div>
         </div>
       </div>

@@ -18,7 +18,7 @@ const FooterNav = ({
     >
       <ul className="list-reset">
         <li>
-          <a href="https://mail.google.com/a/avla.com/?view=cm&fs=1&to=gestionriesgos@avla.com">Contáctanos</a>
+          <a href="https://mail.google.com/a/avla.com/?view=cm&fs=1&to=gestionriesgos@avla.com" style={{color:'#33363A'}}>Contáctanos</a>
         </li>
       </ul>
     </nav>
