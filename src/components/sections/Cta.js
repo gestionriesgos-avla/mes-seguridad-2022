@@ -49,10 +49,10 @@ const Cta = ({
     >
       <div className="container">
         <div
-          className={innerClasses}
+          className={innerClasses} style={{backgroundColor:"#0031E2"}}
         >
           <div className="cta-slogan">
-            <h3 className="m-0">
+            <h3 className="m-0" style={{color:"#FFF"}}>
               Atento a la charla sorpresa ...
               </h3>
           </div>
