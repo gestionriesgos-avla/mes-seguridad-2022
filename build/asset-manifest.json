@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/mes-ciberseguridad-2022/static/css/main.00bd9b0b.chunk.css",
+    "main.js": "/mes-ciberseguridad-2022/static/js/main.496793ba.chunk.js",
+    "main.js.map": "/mes-ciberseguridad-2022/static/js/main.496793ba.chunk.js.map",
+    "runtime-main.js": "/mes-ciberseguridad-2022/static/js/runtime-main.2f63afee.js",
+    "runtime-main.js.map": "/mes-ciberseguridad-2022/static/js/runtime-main.2f63afee.js.map",
+    "static/js/2.2d016ddc.chunk.js": "/mes-ciberseguridad-2022/static/js/2.2d016ddc.chunk.js",
+    "static/js/2.2d016ddc.chunk.js.map": "/mes-ciberseguridad-2022/static/js/2.2d016ddc.chunk.js.map",
+    "index.html": "/mes-ciberseguridad-2022/index.html",
+    "precache-manifest.f476f311d26f4dcb0b489b37e0e8378e.js": "/mes-ciberseguridad-2022/precache-manifest.f476f311d26f4dcb0b489b37e0e8378e.js",
+    "service-worker.js": "/mes-ciberseguridad-2022/service-worker.js",
+    "static/css/main.00bd9b0b.chunk.css.map": "/mes-ciberseguridad-2022/static/css/main.00bd9b0b.chunk.css.map",
+    "static/js/2.2d016ddc.chunk.js.LICENSE.txt": "/mes-ciberseguridad-2022/static/js/2.2d016ddc.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "/mes-ciberseguridad-2022/static/media/illustration-section-02.63d0555d.svg",
+    "static/media/feature-tile-icon-01.svg": "/mes-ciberseguridad-2022/static/media/feature-tile-icon-01.0f9928d7.svg",
+    "static/media/feature-tile-icon-02.svg": "/mes-ciberseguridad-2022/static/media/feature-tile-icon-02.bd39f304.svg",
+    "static/media/feature-tile-icon-03.svg": "/mes-ciberseguridad-2022/static/media/feature-tile-icon-03.66f37ba5.svg",
+    "static/media/feature-tile-icon-04.svg": "/mes-ciberseguridad-2022/static/media/feature-tile-icon-04.836acd10.svg",
+    "static/media/feature-tile-icon-05.svg": "/mes-ciberseguridad-2022/static/media/feature-tile-icon-05.fa9ba00b.svg",
+    "static/media/feature-tile-icon-06.svg": "/mes-ciberseguridad-2022/static/media/feature-tile-icon-06.6a177696.svg",
+    "static/media/features-split-image-01.png": "/mes-ciberseguridad-2022/static/media/features-split-image-01.d9cb99ce.png",
+    "static/media/features-split-image-02.png": "/mes-ciberseguridad-2022/static/media/features-split-image-02.3c569239.png",
+    "static/media/features-split-image-03.png": "/mes-ciberseguridad-2022/static/media/features-split-image-03.87e4d053.png",
+    "static/media/logo.svg": "/mes-ciberseguridad-2022/static/media/logo.2810a88b.svg",
+    "static/media/video-placeholder.jpg": "/mes-ciberseguridad-2022/static/media/video-placeholder.a622fc5d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f63afee.js",
+    "static/js/2.2d016ddc.chunk.js",
+    "static/css/main.00bd9b0b.chunk.css",
+    "static/js/main.496793ba.chunk.js"
+  ]
+}
