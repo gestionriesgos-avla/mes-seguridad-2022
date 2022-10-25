@@ -4,7 +4,7 @@ import { SectionProps } from '../../utils/SectionProps';
 //import ButtonGroup from '../elements/ButtonGroup';
 //import Button from '../elements/Button';
 import Image from '../elements/Image';
-//import Modal from '../elements/Modal';
+import Modal from '../elements/Modal';
 
 const propTypes = {
   ...SectionProps.types
@@ -52,6 +52,8 @@ const Hero = ({
     bottomDivider && 'has-bottom-divider'
   );
 
+  const imgs = ['1.png', '2.png', '3.png', '4.png']
+
   return (
     <section
       {...props}
@@ -78,25 +80,17 @@ const Hero = ({
                 </ButtonGroup>
               </div>*/}
             </div>
-          </div>
+          </div>                  
           <div className="hero-figure reveal-from-bottom illustration-element-01" data-reveal-value="20px" data-reveal-delay="800">
-              <Image
-                className="has-shadow"
-                src={require('./../../assets/images/video-placeholder.jpg')}
-                alt="Hero"
-                width={896}
-                height={504} />
-          </div>
-          {/*<div className="hero-figure reveal-from-bottom illustration-element-01" data-reveal-value="20px" data-reveal-delay="800">
             <a
-              data-video="https://player.vimeo.com/video/174002812"
+              data-video="https://drive.google.com/uc?export=view&id=1B3P8h6xL2F5jCdN0gI6aEndv3Al42vtP"
               href="#0"
               aria-controls="video-modal"
               onClick={openModal}
             >
               <Image
                 className="has-shadow"
-                src={require('./../../assets/images/video-placeholder.jpg')}
+                src={require('./../../assets/images/carousel/1.png')}
                 alt="Hero"
                 width={896}
                 height={504} />
@@ -106,8 +100,8 @@ const Hero = ({
             id="video-modal"
             show={videoModalActive}
             handleClose={closeModal}
-            video="https://player.vimeo.com/video/174002812"
-            videoTag="iframe" />*/}
+            video="https://drive.google.com/uc?export=view&id=1B3P8h6xL2F5jCdN0gI6aEndv3Al42vtP"
+            videoTag="iframe" />
         </div>
       </div>
     </section>
